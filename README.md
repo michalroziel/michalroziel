@@ -10,4 +10,3 @@
 michalroziel/michalroziel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&hideTitle=true&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF
