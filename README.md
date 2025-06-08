@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Babylonica&letterSpacing=0.2rem&pause=1000&color=753176&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Micha%C5%82+Roziel.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Babylonica&letterSpacing=0.2rem&pause=1000&color=753176&center=true&vCenter=true&width=480&lines=Hey+there%2C+I'm+Micha%C5%82+Roziel.)](https://git.io/typing-svg)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning web programming using JavaScript
