@@ -1,3 +1,5 @@
+https://readme-typing-svg.herokuapp.com/demo/?font=Babylonica&letterSpacing=0.2rem&color=753176&center=true&vCenter=true&lines=Hey+there%2C+I'm+Micha%C5%82+Roziel
+
 - 👋 Hi, I’m @michalroziel
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning web programming using JavaScript
