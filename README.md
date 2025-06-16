@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&letterSpacing=0.2rem&pause=1000&color=753176&width=435&lines=Suchst+du+nach+Security+Eng+%3F;Dann+bist+du+hier+richtig...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&letterSpacing=0.2rem&pause=1000&color=753176&width=435&lines=Hey+there+I'm+Michal+Roziel)](https://git.io/typing-svg)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning web programming using JavaScript
