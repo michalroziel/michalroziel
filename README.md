@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&letterSpacing=0.2rem&pause=1000&color=753176&width=435&lines=Hey+there,+I'm+Michał+Roziel+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&letterSpacing=0.2rem&pause=1000&color=753176&width=600&lines=Hey+there,+I'm+Michał+Roziel+.;I’m+interested+in+sailing+and+software+.)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michalroziel/michalroziel/output/github-contribution-grid-snake-dark.svg">
@@ -7,7 +7,7 @@
   
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&letterSpacing=0.2rem&pause=1000&color=753176&width=600&lines=Hey+there,+I'm+Michał+Roziel+.;I’m+interested+in+sailing,+and+software+.)](https://git.io/typing-svg)
+
 
 
 <!---
