@@ -6,7 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michalroziel/michalroziel/output/github-contribution-grid-snake.svg">
   
 </picture>
-- 👀 I’m interested in sailing, engineering and software development.
+I’m interested in sailing, engineering, and software development.
 
 <!---
 michalroziel/michalroziel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
